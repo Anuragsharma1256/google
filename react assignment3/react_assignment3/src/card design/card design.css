@@ -1,0 +1,50 @@
+.card{
+    width: 100px;
+    heigth: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.card design{
+    width: 350px;
+    heigth: 450px;
+    background-colour:  yellow;
+    color:white;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.cardimg{
+    width: 200px;
+    heigth: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-bottom: 20px;
+    
+}
+span{
+    font-size: 20px;
+    margin-buttom: 20px;
+}
+p{
+    font-size: 30px;
+    margin-button: 12px;
+    margin: 10px;
+    text-algin:center;
+}
+.btn{
+    width: 150px;
+    height: 30px;
+    background-colour:white;
+    color: black;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-left:3px;
+    margin-top:30px;
+    front-size:10px;
+}
