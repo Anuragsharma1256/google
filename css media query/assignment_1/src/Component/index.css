@@ -1,0 +1,107 @@
+@media(min-width:1400px){
+    .container,
+    .container-lg,
+    .container-md,
+    .container-md,
+    .container-xl,
+.container-xxl{
+    max-width:1400px;
+}
+}
+ @media ( max-width:998px){
+    navbar.navbar-collapse{
+        margin -top :1rem;
+        background-color: #fff;
+        padding: 2rem,1rem;
+    }
+ }
+  .input-group.btn-style{
+    font-size:1.2rem;
+  }
+  .input-group.btn-style{
+    font-size: 1.2rem;
+  }
+  .main-hero-container h1{
+    font-size: 2.5rem;
+  }
+  .main-hero-para{
+    font-size: :1.5rem;
+    padding-right:1rem;
+    width:100px;
+  }
+  .main-hero-container.header-left-side{
+    padding-left: 4rem;
+    margin-top: 1rem;
+  }
+  .main-herosection-images{
+    position:relative;
+    height: 25rem;
+  }
+  .header-right-side-img{
+    width: 60px;
+    height: 100px;
+    margin-top: 0rem;
+  }
+  .header-right-side,main-hero-img{
+    position:absolute;
+    width: 40%;
+    height: 35%;
+    left: 50%;
+    top: -2%;
+    box-shodow:0.8px 0rem 00.8px rgb(000/25%);
+  }
+  .input-group.input-group-button{
+    right: 25%;
+    width: 40%;
+
+  }
+  .work-container{
+    width:8ovw;
+    padding:5rem,1rem;
+  }
+  .work-container.main-heading{
+    font-size:2.7 rem;
+    font-weigth:bolder;
+    margin-botton:3rem;
+    word-spacing:0rem;
+  }
+  .work-container-sub div{
+    padding:0 0rem;
+  }
+  .our-services-list{
+    padding-left:3rem;
+
+  }
+  .our-service-rightside-img{
+    text-align:center;
+  }
+  .our-service.img{
+    width:70%;
+    heigth:85%;
+  }
+  .our-service.our-service-leftside-img{
+    margin-top: 0;
+  }
+  .service-container.work-container-subdiv{
+    padding:0 2rem;
+    margin:2rem auto;
+  }
+  .service-container.main-heading{
+    margin:5rem auto 0 auto;
+    font-weight:bolder;
+  }
+  .our-service-rightside-content{
+    padding-left:3rem;
+
+  }
+  .contect-rightside{
+    margin-top 5rem 0;
+  }
+  content -rightside from , main-hero-para{
+    font-size:1.3rem;
+    color:var(--text-color);
+    margin:0;
+    font-weight:lighter;
+    width:98%;
+    padding:0px 1rem;
+  }
